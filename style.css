@@ -1,0 +1,14 @@
+html, body {
+    font-family: 'Exo 2', sans-serif;
+
+    
+  }
+  #clock {
+    position: absolute;
+    top: 50%;
+    font-size: 68px;
+    margin-top: -34px;
+    text-align: center;
+    width: 100%;
+    
+  }
